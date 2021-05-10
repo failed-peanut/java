@@ -22,14 +22,15 @@ public class ReverseSinglyLinkedList {
 
 		/* Display Data from LinkedList */
 		rsll.display();
-
+		
+		System.out.println("-------------------------------------");
 		/* Reverse the Linked List */
-		// rsll.reverse();
-
-		rsll.reverseRecursively();
-
-		/* Display Data from LinkedList after reverse */
+		rsll.reverse();
 		rsll.display();
+		/* Reverse the Linked List Recursively*/
+		rsll.reverseRecursively();
+		rsll.display();
+		
 
 	}
 
