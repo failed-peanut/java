@@ -23,53 +23,36 @@ public class PalindromeSubString {
 	}
 
 	private static String getLongestPalindromicSubString(String s) {
-
-		if (checkForValidString(s))
-
-			return "Invalid String";
-
-		if (checkPalindrome(s))
-
-			return s;
-
-		int i = 0;
-
-		int k = i + 1;
-
-		String biggestSubString = "";
-
-		while (i < s.length()) {
-
-			if (k == s.length()) {
-
-				if (checkPalindrome(s.substring(i, k)) && s.substring(i, k).length() > 1
-
-						&& biggestSubString.length() < s.substring(i, k).length()) {
-
-					biggestSubString = s.substring(i, k);
-
+		if (checkForValidString(s)) return "Invalid String"; // check if given String is valid or not
+		if (checkPalindrome(s)) return s; // check if given String itself is a palindrome
+		int i = 0; // initialize 'i' that should point to first character of string.
+		int k = i + 1; // initialize 'k' that will point to next character of String (i+1).
+		String biggestSubString = ""; // Declare a temp String that holds the biggest Substring.
+		while (i < s.length()) { // iterate through String
+			if (k == s.length())// if 'k' reaches the end of the String length
+			   { 
+				/*
+				 * 1. check if the substring b/w i and k is palindrome.
+				 * 2. Ignore if the
+				 * substring is of length 1 or just a single character. 
+				 * 3. check the length of
+				 * the declared temp String with substring we got. If its less then make
+				 * substring as temp string and move on to the next loop.
+				 */
+				if (checkPalindrome(s.substring(i, k)) && s.substring(i, k).length() > 1 && biggestSubString.length() < s.substring(i, k).length())
+							biggestSubString = s.substring(i, k);
+				i++; // NOTE: increment 'i' only when 'k' completes its cycle.
+				k = i; // lets 'k' continue again from 'i' to get remaining palindromic substring.
 				}
-
-				i++;
-
-				k = i;
-
-			}
-
-			if (checkPalindrome(s.substring(i, k)) && s.substring(i, k).length() > 1
-
-					&& biggestSubString.length() < s.substring(i, k).length()) {
-
-				biggestSubString = s.substring(i, k);
-
-			}
-
-			k++;
-
-		}
-
-		return biggestSubString.length() > 0 ? biggestSubString : "NO longest palindromic substring PRESENT";
-
+			/*
+			 * The above condition is repeated again to check the palindromic substring when
+			 * 'k' have not reached end 'can optimize it if required'- give a try.
+			 */
+			if (checkPalindrome(s.substring(i, k)) && s.substring(i, k).length() > 1 && biggestSubString.length() < s.substring(i, k).length())
+							biggestSubString = s.substring(i, k);
+			k++;// increment 'k' which points to next character in String and continues to reach till string length then reset k to i by incrementing i.
+		   }
+		return biggestSubString.length() > 0 ? biggestSubString : "NO longest palindromic substring PRESENT"; 
 	}
 
 	private static boolean checkForValidString(String s) {
