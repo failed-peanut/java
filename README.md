@@ -1,6 +1,7 @@
 # Experiments with Java
 
-### Given a string find the distinct characters in it and count it. ###### *[code](http://pages-themes.github.io/slate)*
+### Given a string find the distinct characters in it and count it. 
+###### *[code:Distinct](http://pages-themes.github.io/slate)*
 ###### *[code](http://pages-themes.github.io/slate)*
 
 ```java
