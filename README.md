@@ -15,7 +15,7 @@ To use the Slate theme:
 
 1. Add the following to your site's `_config.yml`:
 
-    ```yml
+    ```java
     theme: jekyll-theme-slate
     ```
 
