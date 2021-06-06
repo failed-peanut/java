@@ -8,6 +8,14 @@ Output: DSNC 4
 ```
 *[DistinctCharacters](http://pages-themes.github.io/slate)*
 
+## Given a string find the distinct characters in it and count it. 
+
+```java
+Input:  DISTINCT
+Output: DSNC 4
+```
+*[code](http://pages-themes.github.io/slate)*
+
 ## Usage
 
 To use the Slate theme:
