@@ -2,7 +2,7 @@
 
 ## Given a string find the distinct characters in it and count it. 
 
-```
+```java
 Input:  DISTINCT
 Output: DSNC 4
 ```
