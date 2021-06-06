@@ -8,7 +8,7 @@ Output: DSNC 4
 [code](http://pages-themes.github.io/slate)
 
 ---
-### Given a string find the distinct characters in it and count it. 
+### %TITLE%. 
 
 ```java
 Input:  DISTINCT
