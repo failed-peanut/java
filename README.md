@@ -12,7 +12,7 @@ input:  DISTINCT
 Output: DSNC 4
 
 ```
-*[Code]*(http://pages-themes.github.io/slate)
+*[DistinctCharacters](http://pages-themes.github.io/slate)*
 
 ## Usage
 
