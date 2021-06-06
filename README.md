@@ -1,7 +1,7 @@
 # Experiments with Java
 
 ### Given a string find the distinct characters in it and count it. 
-#### *[DistinctCharacters](http://pages-themes.github.io/slate)*
+###### *[code](http://pages-themes.github.io/slate)*
 
 ```java
 Input:  DISTINCT
