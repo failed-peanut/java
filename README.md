@@ -18,7 +18,9 @@ Output: DSNC 4
 
 
 > **_NOTE:_** <br />
-1.Primer is now the default theme for GitHub Pages,<br />
-2.but you can still specify the theme you're using as below.<br />
-3.Another<br />
+1.The above solution is not the only way to approach the
+problem.<br />
+2.Practice,Practice,Practice,Practice... than copying code and executing.<br />
+3.There are ‘N’ number of ways to solve the issue.<br />
+4.Comments and suggestions are always welcome. *failedpeanut@gmail.com*
 
