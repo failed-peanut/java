@@ -18,7 +18,7 @@ Output: DSNC 4
 
 
 > **_NOTE:_** 
-1.Primer is now the default theme for GitHub Pages,
-2.but you can still specify the theme you're using as below.
-3.Another
+1.Primer is now the default theme for GitHub Pages,<br />
+2.but you can still specify the theme you're using as below.<br />
+3.Another<br />
 
