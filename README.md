@@ -8,6 +8,7 @@
 Given a string find the distinct characters in it and count it.
 input:  DISTINCT
 Output: DSNC 4
+[preview the theme to see what it looks like](http://pages-themes.github.io/slate)
 ```
 
 ## Usage
