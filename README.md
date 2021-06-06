@@ -9,6 +9,9 @@
 ## Usage
 
 To use the Slate theme:
+## Usage
+
+> **_NOTE:_** Primer is now the default theme for GitHub Pages, but you can still specify the theme you're using as below.
 
 1. Add the following to your site's `_config.yml`:
 
