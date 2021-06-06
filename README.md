@@ -1,9 +1,5 @@
 # Experiments with Java
 
-[![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
-
-*Slate is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/slate), or even [use it today](#usage).*
-
 ## Given a string find the distinct characters in it and count it. 
 
 ```
@@ -19,6 +15,8 @@ To use the Slate theme:
 
 > **_NOTE:_** Primer is now the default theme for GitHub Pages, but you can still specify the theme you're using as below.
 
+> Input:  DISTINCT
+Output: DSNC 4
 1. Add the following to your site's `_config.yml`:
 
     ```java
