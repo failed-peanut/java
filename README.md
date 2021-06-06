@@ -6,8 +6,10 @@
 
 ## Given a string find the distinct characters in it and count it. 
 
-```input:  DISTINCT
-Output: DSNC 4```
+```
+input:  DISTINCT
+Output: DSNC 4
+```
 *[DistinctCharacters](http://pages-themes.github.io/slate)*
 
 ## Usage
