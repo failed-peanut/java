@@ -4,7 +4,11 @@
 
 *Slate is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/slate), or even [use it today](#usage).*
 
-
+```
+Given a string find the distinct characters in it and count it.
+input:  DISTINCT
+Output: DSNC 4
+```
 
 ## Usage
 
