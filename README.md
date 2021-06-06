@@ -8,10 +8,19 @@ Output: DSNC 4
 [code](http://pages-themes.github.io/slate)
 
 ---
-### _Given a string find the distinct characters in it and count it_. 
+### Given a string find the distinct characters in it and count it. 
 
 ```java
 Input:  DISTINCT
 Output: DSNC 4
 ```
 ---
+## Usage
+
+To use the Slate theme:
+## Usage
+
+> **_NOTE:_** 
+Primer is now the default theme for GitHub Pages, 
+but you can still specify the theme you're using as below.
+
