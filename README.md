@@ -7,7 +7,6 @@ Output: DSNC 4
 ```
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/DistinctCharactersWithCount.java)
 
-[link](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/DistinctCharactersWithCount.java){:target="_blank"}
 ---
 ### %TITLE%. 
 
