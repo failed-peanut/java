@@ -19,18 +19,6 @@ To use the Slate theme:
     theme: jekyll-theme-slate
     ```
 
-    ```java
-public class MyClass {
-  public static final int SOME_CONSTANT = 42;
-  public int publicField;
-  private static MyClass sSingleton;
-  int mPackagePrivate;
-  private int mPrivate;
-  protected int mProtected;
-}
-```
-
-
 ```java
 class MyClass
 {
@@ -47,6 +35,8 @@ class MyClass
   }
 }
 ```
+
+
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
     ```ruby
