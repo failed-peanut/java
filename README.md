@@ -11,8 +11,8 @@ Output: DSNC 4
 ### %TITLE%. 
 
 ```java
-Input:  DISTINCT
-Output: DSNC 4
+%COMMENT_1%
+%COMMENT_2%
 ```
 ---
 
