@@ -1,11 +1,11 @@
 # Experiments with Java
 
 ### Given a string find the distinct characters in it and count it. 
-*[code](http://pages-themes.github.io/slate)*
 ```java
 Input:  DISTINCT
 Output: DSNC 4
 ```
+*[code](http://pages-themes.github.io/slate)*
 ---
 ### Given a string find the distinct characters in it and count it. 
 
