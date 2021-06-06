@@ -16,7 +16,7 @@ To use the Slate theme:
 > **_NOTE:_** Primer is now the default theme for GitHub Pages, but you can still specify the theme you're using as below.
 
 > Input:  DISTINCT
-Output: DSNC 4
+>Output: DSNC 4
 1. Add the following to your site's `_config.yml`:
 
     ```java
