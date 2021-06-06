@@ -22,5 +22,5 @@ Output: DSNC 4
 problem.<br />
 2. Practice,Practice,Practice,Practice... than copying code and executing.<br />
 3. There are ‘N’ number of ways to solve the issue.<br />
-4. Comments and suggestions are always welcome. *failedpeanut@gmail.com*
+4. Comments and Suggestions are always welcome. *failedpeanut@gmail.com*
 
