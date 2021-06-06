@@ -7,7 +7,7 @@ Output: DSNC 4
 ```
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/DistinctCharactersWithCount.java)
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[link](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/DistinctCharactersWithCount.java){:target="_blank"}
 ---
 ### %TITLE%. 
 
