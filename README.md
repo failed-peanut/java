@@ -5,7 +5,7 @@
 Input:  DISTINCT
 Output: DSNC 4
 ```
-[code](http://pages-themes.github.io/slate)
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/DistinctCharactersWithCount.java)
 
 ---
 ### %TITLE%. 
@@ -14,6 +14,7 @@ Output: DSNC 4
 %COMMENT_1%
 %COMMENT_2%
 ```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/%URL%.java)
 ---
 
 
