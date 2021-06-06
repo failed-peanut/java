@@ -1,6 +1,6 @@
 # Experiments with Java
 
-## Given a string find the distinct characters in it and count it. 
+### Given a string find the distinct characters in it and count it. 
 
 ```java
 Input:  DISTINCT
