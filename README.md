@@ -72,7 +72,8 @@ If A is abc and B is acb, return false.
 
 ```java
 For example, given L = [1, 2, 3, 4, 5], sum(1, 3) should return sum([2, 3]), which is 5.
-You can assume that you can do some pre-processing. sum() should be optimized over the pre-processing step.
+You can assume that you can do some pre-processing. 
+sum() should be optimized over the pre-processing step.
 ```
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/SumSubList.java)
 
