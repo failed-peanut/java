@@ -8,7 +8,8 @@ Output: DSNC 4
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/DistinctCharactersWithCount.java)
 
 ---
-### Given a sorted array 'arr' of distinct integers, return the lowest index i for which arr[i] == i. Return null if there is no such index.
+### Given a sorted array 'arr' of distinct integers,return the lowest index i for which arr[i] == i. 
+### Return null if there is no such index.
 
 ```java
 given the array [-5, -3, 2, 3], return 2 since arr[2] == 2.
