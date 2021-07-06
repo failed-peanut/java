@@ -8,7 +8,7 @@ Output: DSNC 4
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/DistinctCharactersWithCount.java)
 
 ---
-### Given a sorted array arr of distinct integers,return the lowest index i for which arr[i] == i.Return null if there is no such index.
+### Given a sorted array arr of distinct integers,return the lowest index i for which arr[i] == i. Return null if there is no such index.
 
 ```java
 given the array [-5, -3, 2, 3], return 2 since arr[2] == 2.
@@ -17,6 +17,20 @@ Even though arr[3] == 3, we return 2 since it's the lowest index.
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/LowestIndex.java)
 
 ---
+### Given a list of strictly positive integers,partition the list into 3 contiguous partitions which each sum up to the same value.If not possible, return null.
+
+```java
+given the array [3, 5, 8, 0, 8]
+Return the following 3 partitions:
+[[3, 5],
+ [8, 0],
+ [8]]
+Which each add up to 8.
+```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/IntegerListInto3ContiguousPartition.java)
+
+---
+
 
 
 > **_NOTE:_** <br />
