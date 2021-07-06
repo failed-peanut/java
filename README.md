@@ -30,6 +30,15 @@ Which each add up to 8.
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/IntegerListInto3ContiguousPartition.java)
 
 ---
+### Given a string, find the longest palindromic contiguous substring. If there are more than one with the maximum length, return any one.
+
+```java
+The longest palindromic substring of "aabcdcb" is "bcdcb". 
+The longest palindromic substring of "bananas" is "anana".
+```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/PalindromeSubString.java)
+
+---
 
 
 
