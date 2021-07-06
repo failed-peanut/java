@@ -39,7 +39,17 @@ The longest palindromic substring of "bananas" is "anana".
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/PalindromeSubString.java)
 
 ---
+### Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
 
+```java
+if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. 
+If our input was [3, 2, 1], the expected output would be [2, 3, 6].
+
+Follow-up: what if you can't use division?
+```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/ProductOfAllNumbers.java)
+
+---
 
 
 > **_NOTE:_** <br />
