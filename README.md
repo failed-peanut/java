@@ -50,8 +50,33 @@ Follow-up: what if you can't use division?
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/ProductOfAllNumbers.java)
 
 ---
+### Reverse a singly linked list.
 
+```java
+Input : 1->2->3->4->NULL
+Output: 4->3->2->1->NULL
+```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/ReverseSinglyLinkedList.java)
 
+---
+### Given two strings A and B, return whether or not A can be shifted some number of times to get B.
+
+```java
+If A is abcde and B is cdeab, return true. 
+If A is abc and B is acb, return false.
+```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/ShiftCharacter.java)
+
+---
+### Given a list of numbers L, implement a method sum(i, j) which returns the sum from the sublist L[i:j] (including i, excluding j).
+
+```java
+For example, given L = [1, 2, 3, 4, 5], sum(1, 3) should return sum([2, 3]), which is 5.
+You can assume that you can do some pre-processing. sum() should be optimized over the pre-processing step.
+```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/SumSubList.java)
+
+---
 > **_NOTE:_** <br />
 1. The above solution is not the only way to approach the
 problem.<br />
