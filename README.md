@@ -78,6 +78,16 @@ sum() should be optimized over the pre-processing step.
 [code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/SumSubList.java)
 
 ---
+### Say that a "clump" in an array is a series of 2 or more adjacent elements of the same value.Return the number of clumps in the given array.
+
+```java
+For example, countClumps([1, 2, 2, 3, 4, 4]) -> 2
+countClumps([1, 1, 2, 1, 1]) -> 2
+countClumps([1, 1, 1, 1, 1]) -> 1
+```
+[code](https://github.com/failedpeanut/Java/blob/main/failedpeanut/src/com/failedpeanut/Clumps.java)
+
+---
 > **_NOTE:_** <br />
 1. The above solution is not the only way to approach the
 problem.<br />
